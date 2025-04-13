@@ -1,0 +1,10 @@
+order_id,final_product_name,order_status,store_name,origin_name,franchise_name,username,taxes,discounts,subtotal,total,operation_date,local_time,created_at
+15005379,Bowl Pollo Saludable + Bebida,Entregado,Muy calle 138,Rappi,Pecado Natural Turbo,Usuario Integracion Domicilios,5675.5555,0.0000,70944.4445,76620.0000,2025-04-12,18:32:06,2025-04-12 23:32:06
+15005379,Bowl Res Desmechada + Bebida,Entregado,Muy calle 138,Rappi,Pecado Natural Turbo,Usuario Integracion Domicilios,5675.5555,0.0000,70944.4445,76620.0000,2025-04-12,18:32:06,2025-04-12 23:32:06
+15005379,Promo Bowl Mexicano saludable,Entregado,Muy calle 138,Rappi,Pecado Natural Turbo,Usuario Integracion Domicilios,5675.5555,0.0000,70944.4445,76620.0000,2025-04-12,18:32:06,2025-04-12 23:32:06
+15005378,CASERO MEDIANO,Entregado,MUY 147,Rappi,CASERO TURBO BY MUY,Usuario Integracion Domicilios,1184.0741,0.0000,14800.9259,15985.0000,2025-04-12,18:31:54,2025-04-12 23:31:54
+15005377,Bowl MUY MUY Personalizado,Entregado,MUY Connecta,AutogestiÃ³n,MUY,OMAR LENIS,1140.7407,0.0000,14259.2593,15400.0000,2025-04-12,18:31:45,2025-04-12 23:31:46
+15005376,MUY MUY Paisa,Entregado,MUY Galerias,POS,MUY,Cajero 1 MUY Galerias,1474.0741,0.0000,18425.9259,19900.0000,2025-04-12,18:31:44,2025-04-12 23:31:45
+15005375,MUY Strogonoff de frango,En proceso,CR JOSE HORACIO,AutogestiÃ³n,MUY,FLAVIO FUKUMARU,2.9136,0.0000,21.9900,21.9900,2025-04-12,20:31:25,2025-04-12 23:31:25
+15005374,Combo BaiÃ£o + bebida,Pedido,CK FERREIRA,iFood,MUY,LuÃ­s Eduardo  Bandeira  .,5.3000,0.0000,48.9900,48.9900,2025-04-12,20:31:07,2025-04-12 23:31:08
+15005373,Chicken Bowl,En proceso,CR MUY Moema,iFood,Pecado Natural,FRANCISCO KRIESER .,2.9150,0.0000,31.9900,31.9900,2025-04-12,20:31:07,2025-04-12 23:31:07
